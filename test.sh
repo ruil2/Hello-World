@@ -8,6 +8,3 @@ echo "this is first edit in windows"
 
 echo "this is second commit in windows!"
 
-
-echo "this is first commit in github after add back third commit in windows"
-
