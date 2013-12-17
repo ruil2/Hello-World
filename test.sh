@@ -11,3 +11,7 @@ echo "this is second commit in windows!"
 
 echo "this is first commit in github after add back third commit in windows"
 
+#this edition is add after creating new branch
+
+echo "this is first commit  in new branched only!"
+
