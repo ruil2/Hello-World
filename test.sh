@@ -26,3 +26,6 @@ echo "test!"
 echo "add line in github.com"
 
 echo " test on Mac"
+
+echo "test commit "
+
