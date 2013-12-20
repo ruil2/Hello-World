@@ -29,3 +29,4 @@ echo " test on Mac"
 
 echo "test commit "
 
+echo "test pull request"
